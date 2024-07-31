@@ -1,4 +1,4 @@
-# MichelSalles
+# Michel Salles
 
 <div style="display: flex; align-items: center; justify-content: center; margin-top: 20px;">
   <div style="flex: 1;">
