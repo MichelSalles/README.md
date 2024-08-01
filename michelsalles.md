@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center; margin-top: 20px;">
   <div style="flex: 1;">
-    <p>Olá, meu nome é Michel 🤙
+    <p>Olá, meu nome é Michel! 🤙
 
 Atualmente, trabalho com Fibra Óptica e estou buscando o conhecimento necessário para atuar como desenvolvedor. Sempre tive muita curiosidade no mundo da tecnologia. Minha profissão me deu uma grande experiência e me mostrou o quanto posso expandir meus conhecimentos. Com isso, decidi entrar em uma universidade e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Desde então, estou ainda mais empenhado em seguir meu propósito. Uso este perfil como minha área de estudos, e pretendo deixar todos os repositórios que eu estudar aqui, a fim de desenvolver meus conhecimentos com a ajuda da plataforma.</p>
   </div>
