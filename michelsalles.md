@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center; margin-top: 20px;">
   <div style="flex: 1;">
-    <p>Olá, meu nome é Michel 🤙
+    <p>Olá, meu nome é Michel! 🤙
 
 Atualmente, trabalho com Fibra Óptica e estou buscando o conhecimento necessário para atuar como desenvolvedor. Sempre tive muita curiosidade no mundo da tecnologia. Minha profissão me deu uma grande experiência e me mostrou o quanto posso expandir meus conhecimentos. Com isso, decidi entrar em uma universidade e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Desde então, estou ainda mais empenhado em seguir meu propósito. Uso este perfil como minha área de estudos, e pretendo deixar todos os repositórios que eu estudar aqui, a fim de desenvolver meus conhecimentos com a ajuda da plataforma.</p>
   </div>
@@ -22,13 +22,8 @@ Atualmente, trabalho com Fibra Óptica e estou buscando o conhecimento necessár
 ## Habilidades
 
 ## 
-<div id="Stats" style=" passing: 20px; border: 1220000px ">
-
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichelSalles&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-</div>
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichelSalles&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MichelSalles&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ## Minhas Contribuiçãoes
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=MichelSalles&repo=Site-Sorteio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/MichelSalles/Site-Sorteio)
